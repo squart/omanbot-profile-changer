@@ -1,0 +1,20 @@
+#!/usr/bin/python
+#  -*- coding: utf-8 -*-
+#  Nimbuzz: yuyb0y@nimbuzz.com
+#  coded by Yuyb0y (yuyb0y@mail.com)
+#  www.omanbot.com
+# OmanBot Profile Changer v1.0
+# NOTE - Don't write nick name with more than 60 Character.
+
+#########################Bot DETAILS########################
+
+#Your Nickname
+User_NickName = ''
+
+#Number of how many times will bot change your Nickname
+Change_Counter = 5
+
+#Time to sleep before change the status.
+Change_Time = 0.5
+
+##########################################################
